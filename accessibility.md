@@ -1,4 +1,10 @@
-npm HTML-VALIDATOR
+npm html-validator-cli
+
+`html-validator --file=<file to path>`
+`html-validator <url>`
+
+Use --verbose to get full report
+Use --islocal for locally hosted websites
 
 WCAG - Contrast Checker
 
