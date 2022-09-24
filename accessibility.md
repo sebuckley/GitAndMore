@@ -30,7 +30,7 @@ https://accessibility-manual.dwp.gov.uk/tools-and-resources/basic-accessibility-
 6. Run your acceptance tests against the whole product before merging your code
 
 
-![pally image](./pally.png)
+![pally image](./pally.PNG)
 
 
 
