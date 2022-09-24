@@ -29,8 +29,9 @@ https://accessibility-manual.dwp.gov.uk/tools-and-resources/basic-accessibility-
 5. Manually test the page using assitive technologies
 6. Run your acceptance tests against the whole product before merging your code
 
+![html validator automated test image](./html-validator.PNG)
 
-![pally image](./pally.PNG)
+![pally automated test image](./pally.PNG)
 
 
 
