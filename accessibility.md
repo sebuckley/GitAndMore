@@ -10,6 +10,8 @@ To view the accessibility tree
 3. Turn on enable full page accessibility tree
 4. Restart Browser
 
+**5 ARIA Rules/Guidelines**
+
 1. Try not to use ARIA
 2. Try not to change native semantics
 3. All interactive contorls must work with a keyboard
@@ -19,6 +21,7 @@ To view the accessibility tree
 https://www.w3.org/TR/using-aria/
 
 **Aria has 3 Main Categories**
+
 Roles - main identity of element
 Staes and Properties - Widget attributes, live region attributes, relationship attributes
 Live regions
@@ -26,6 +29,7 @@ Live regions
 #Automated Testing
 
 **Test in Command Line**
+
 `$npm html-validator-cli`
 
 `$html-validator --file=<file to path>`
