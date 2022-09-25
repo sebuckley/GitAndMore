@@ -40,14 +40,21 @@ Use --verbose to get full report
 Use --islocal for locally hosted websites
 
 **3 tools can pick up 40% of issues**
+
 ARC Toolkit – chrome turn on local files in options
+
 AxeDev Tools – chrome turn on local files in options
+
 Wave – chrome turn on local files in options
 
 **Additional Useful Tools**
+
 WCAG - Contrast Checker
+
 Accesibility  Insights
+
 Broken Link Checker
+
 Web Developer Tools
 
 https://accessibility-manual.dwp.gov.uk/tools-and-resources/basic-accessibility-checks
@@ -62,6 +69,8 @@ https://accessibility-manual.dwp.gov.uk/tools-and-resources/basic-accessibility-
 `$npm html-validator install`
 
 ![html validator automated test image](./html-validator.PNG)
+
+`$npm html-pally install`
 
 ![pally automated test image](./pally.PNG)
 
