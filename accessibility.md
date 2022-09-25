@@ -23,7 +23,9 @@ https://www.w3.org/TR/using-aria/
 **Aria has 3 Main Categories**
 
 Roles - main identity of element
+
 Staes and Properties - Widget attributes, live region attributes, relationship attributes
+
 Live regions
 
 #Automated Testing
